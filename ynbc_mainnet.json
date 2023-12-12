@@ -1,0 +1,25 @@
+{
+  "name": "NYBC Mainnet",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/NEWYORKBLOCKCHAIN/TokenBridgeList/main/nybc_logo.png",
+  "keywords": [
+    "nybc",
+    "wnybc"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped NYBC",
+      "address": "0x4cCa011d5718030cc79810449Ab2379651E90465",
+      "symbol": "WNYBC",
+      "decimals": 18,
+      "chainId": 20831,
+      "logoURI": "https://raw.githubusercontent.com/NEWYORKBLOCKCHAIN/TokenBridgeList/main/nybc_logo.png"
+    }
+  ]
+}
